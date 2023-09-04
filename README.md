@@ -1,0 +1,2 @@
+# Real_Time_Network_Traffic_Analysis_for_Telecommunications
+Real_Time_Network_Traffic_Analysis_for_Telecommunications_a real-time network traffic analysis system using Apache Kafka and Structured Spark Streaming.
